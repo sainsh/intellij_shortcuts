@@ -1,3 +1,3 @@
 # Datamarikernes bedste intellij shortcuts
 
-Run --> Shift + F10
+Run &rightarrow; Shift + F10
