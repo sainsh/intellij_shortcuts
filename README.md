@@ -7,3 +7,5 @@ Run &rightarrow; Shift + F10
 psvm &rightarrow; Main metoden
 
 sout &rightarrow; System.out.println
+
+Shift + F10 &rightarrow; Runs the code
