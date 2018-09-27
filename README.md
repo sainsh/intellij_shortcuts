@@ -2,6 +2,13 @@
 
 Run &rightarrow; Shift + F10
 
+Shift + F10 &rightarrow; Runs the code
+
+Shift + f6 &rightarrow; refactor name.
+
+Double shift = search in project
+
+ctrl + y &rightarrow; delete current line
 
 på variabler i klasser kan man trykke på Code i toppen og tryk generate, så kan man lave getters and setters
 
@@ -12,10 +19,4 @@ psvm &rightarrow; Main metoden
 
 sout &rightarrow; System.out.println
 
-Shift + F10 &rightarrow; Runs the code
 
-
-Shift + f6 &rightarrow; refactor name.
-
-
-ctrl + y &rightarrow; delete current name
