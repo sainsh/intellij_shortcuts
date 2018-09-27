@@ -24,7 +24,9 @@ Ctrl + alt + k; commit'er og push'er
 
 på variabler i klasser kan man trykke på Code i toppen og tryk generate, så kan man lave getters and setters
 
-Format C:-løsser all problmer
+Format C:-løsser all problmer 
+
+ctrl + alt + h ; show call hierarchy
 
 
 ## Forkortelser 
