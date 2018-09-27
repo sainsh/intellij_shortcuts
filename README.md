@@ -10,6 +10,8 @@ Double shift = search in project
 
 Ctrl + y &rightarrow; delete current line
 
+Ctrl+Shift+A: Find Action
+
 CTRL + Z = Regret last action.
 
 Ctrl + Left Mouse Click &rightarrow; Åbner et objects Klasse fil
