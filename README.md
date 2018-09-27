@@ -16,3 +16,6 @@ Shift + F10 &rightarrow; Runs the code
 
 
 Shift + f6 &rightarrow; refactor name.
+
+
+ctrl + y &rightarrow; delete current name
