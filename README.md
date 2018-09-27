@@ -23,4 +23,6 @@ på variabler i klasser kan man trykke på Code i toppen og tryk generate, så k
 
 psvm &rightarrow; Main metoden
 
+ctrl + S; gemmer koden
+
 sout &rightarrow; System.out.println
