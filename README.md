@@ -12,3 +12,5 @@ Shift + F10 &rightarrow; Runs the code
 
 
 Shift + f6 &rightarrow; refactor name.
+
+double shift = search in project
