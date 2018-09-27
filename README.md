@@ -2,6 +2,8 @@
 
 Run &rightarrow; Shift + F10
 
+Ctrl + R = Replace
+
 ## Forkortelser 
 
 psvm &rightarrow; Main metoden
