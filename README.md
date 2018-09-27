@@ -29,6 +29,8 @@ Format C:-løsser all problmer
 ctrl + alt + h ; show call hierarchy
 
 
+ctrl + shift + f	search
+
 ## Forkortelser 
 
 psvm &rightarrow; Main metoden
