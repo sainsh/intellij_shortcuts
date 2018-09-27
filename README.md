@@ -8,9 +8,12 @@ Shift + f6 &rightarrow; refactor name.
 
 Double shift = search in project
 
-ctrl + y &rightarrow; delete current line
+Ctrl + y &rightarrow; delete current line
 
 CTRL + Z = Regret last action.
+
+Ctrl + Left Mouse Click &rightarrow; Åbner et objects Klasse fil
+
 
 på variabler i klasser kan man trykke på Code i toppen og tryk generate, så kan man lave getters and setters
 
@@ -21,4 +24,3 @@ på variabler i klasser kan man trykke på Code i toppen og tryk generate, så k
 psvm &rightarrow; Main metoden
 
 sout &rightarrow; System.out.println
-
