@@ -29,3 +29,5 @@ Format C:-løsser all problmer
 psvm &rightarrow; Main metoden
 
 sout &rightarrow; System.out.println
+
+Ctrl + E = View recent files
