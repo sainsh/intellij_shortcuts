@@ -24,6 +24,8 @@ på variabler i klasser kan man trykke på Code i toppen og tryk generate, så k
 
 Format C:-løsser all problmer
 
+ctrl + shift + f	search
+
 ## Forkortelser 
 
 psvm &rightarrow; Main metoden
