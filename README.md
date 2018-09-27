@@ -22,3 +22,13 @@ psvm &rightarrow; Main metoden
 
 sout &rightarrow; System.out.println
 
+
+
+
+
+
+
+
+
+
+Alt + Enter = (på kode med rød under.) Fix code, if something is wrong. (adds import or adds code)
