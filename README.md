@@ -2,6 +2,9 @@
 
 Run &rightarrow; Shift + F10
 
+
+Ctrl + R = replace
+
 Shift + F10 &rightarrow; Runs the code
 
 Shift + f6 &rightarrow; refactor name.
@@ -23,6 +26,7 @@ Ctrl + alt + k; commit'er og push'er
 på variabler i klasser kan man trykke på Code i toppen og tryk generate, så kan man lave getters and setters
 
 Format C:-løsser all problmer
+
 
 ## Forkortelser 
 
