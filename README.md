@@ -1,9 +1,8 @@
 # Datamatikernes bedste IntelliJ shortcuts & fifs
 
-Run &rightarrow; Shift + F10
+Run &rightarrow; Shift + F10 
 
-
-Ctrl + R = replace
+Ctrl + R = replace (⌘ + R on mac)
 
 Shift + F10 &rightarrow; Runs the code
 
