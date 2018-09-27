@@ -10,7 +10,10 @@ Double shift = search in project
 
 ctrl + y &rightarrow; delete current line
 
+CTRL + Z = Regret last action.
+
 på variabler i klasser kan man trykke på Code i toppen og tryk generate, så kan man lave getters and setters
+
 
 
 ## Forkortelser 
@@ -18,5 +21,4 @@ på variabler i klasser kan man trykke på Code i toppen og tryk generate, så k
 psvm &rightarrow; Main metoden
 
 sout &rightarrow; System.out.println
-
 
