@@ -30,6 +30,11 @@ Ctrl + E = View recent files
 
 Alt + Shift + W  to show a class in package explorer
 
+Alt + Enter = (på kode med rød under.) Fix code, if something is wrong. (adds import or adds line of code)
+
+Ctrl + E = View recent files
+
+
 ## Forkortelser 
 
 psvm &rightarrow; Main metoden
@@ -43,6 +48,5 @@ på variabler i klasser kan man trykke på Code i toppen og tryk generate, så k
 download appen: IntelliJ IDEA Shortcuts, på google play
 
 Format C:-løsser all problmer 
-
 
 
