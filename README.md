@@ -22,14 +22,13 @@ Ctrl + S; gemmer koden
 
 Ctrl + alt + k; commit'er og push'er
 
-på variabler i klasser kan man trykke på Code i toppen og tryk generate, så kan man lave getters and setters
-
-Format C:-løsser all problmer 
-
 ctrl + alt + h ; show call hierarchy
 
-
 ctrl + shift + f	search
+
+Ctrl + E = View recent files
+
+Alt + Shift + W  to show a class in package explorer
 
 ## Forkortelser 
 
@@ -37,8 +36,13 @@ psvm &rightarrow; Main metoden
 
 sout &rightarrow; System.out.println
 
-Ctrl + E = View recent files
+## Fifs
 
-Alt + Shift + W  to show a class in package explorer
+på variabler i klasser kan man trykke på Code i toppen og tryk generate, så kan man lave getters and setters
+
+download appen: IntelliJ IDEA Shortcuts, på google play
+
+Format C:-løsser all problmer 
+
 
 
