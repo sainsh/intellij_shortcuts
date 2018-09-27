@@ -16,15 +16,15 @@ CTRL + Z = Regret last action.
 
 Ctrl + Left Mouse Click &rightarrow; Åbner et objects Klasse fil
 
+Ctrl + S; gemmer koden
+
+Ctrl + alt + k; commit'er og push'er
 
 på variabler i klasser kan man trykke på Code i toppen og tryk generate, så kan man lave getters and setters
-
 
 
 ## Forkortelser 
 
 psvm &rightarrow; Main metoden
-
-ctrl + S; gemmer koden
 
 sout &rightarrow; System.out.println
