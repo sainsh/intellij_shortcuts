@@ -34,6 +34,8 @@ Alt + Enter = (på kode med rød under.) Fix code, if something is wrong. (adds 
 
 Ctrl + E = View recent files
 
+Ctrl + Alt + L = Formaterer koden så den er lettere at læse
+
 
 ## Forkortelser 
 
